@@ -1,9 +1,9 @@
 {
-  "name": "former-kit-skin-pagarme",
+  "name": "former-kit-skin-1help",
   "version": "1.5.3",
-  "description": "A skin for former-kit based on Pagar.me's brand",
+  "description": "A skin for former-kit based on 1help's brand",
   "main": "dist/index.js",
-  "repository": "https://github.com/pagarme/former-kit-skin-pagarme.git",
+  "repository": "https://github.com/da1help/former-kit-skin-1help",
   "author": "Pagar.me Pagamentos S.A.",
   "license": "CC-BY-4.0",
   "private": false,
